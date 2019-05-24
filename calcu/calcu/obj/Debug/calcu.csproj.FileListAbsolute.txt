@@ -1,0 +1,9 @@
+C:\Users\Tanaiiir\source\repos\calcu\calcu\bin\Debug\calcu.dll
+C:\Users\Tanaiiir\source\repos\calcu\calcu\bin\Debug\calcu.pdb
+C:\Users\Tanaiiir\source\repos\calcu\calcu\obj\Debug\calcu.csprojAssemblyReference.cache
+C:\Users\Tanaiiir\source\repos\calcu\calcu\obj\Debug\calcu.UserControl1.resources
+C:\Users\Tanaiiir\source\repos\calcu\calcu\obj\Debug\calcu.csproj.GenerateResource.cache
+C:\Users\Tanaiiir\source\repos\calcu\calcu\obj\Debug\calcu.csproj.CoreCompileInputs.cache
+C:\Users\Tanaiiir\source\repos\calcu\calcu\obj\Debug\calcu.dll
+C:\Users\Tanaiiir\source\repos\calcu\calcu\obj\Debug\calcu.pdb
+C:\Users\Tanaiiir\source\repos\calcu\calcu\obj\Debug\calcu.Properties.Resources.resources

@@ -1,0 +1,7 @@
+C:\Users\Tanaiiir\source\repos\calcu\calcu\bin\Release\calcu.dll
+C:\Users\Tanaiiir\source\repos\calcu\calcu\bin\Release\calcu.pdb
+C:\Users\Tanaiiir\source\repos\calcu\calcu\obj\Release\calcu.UserControl1.resources
+C:\Users\Tanaiiir\source\repos\calcu\calcu\obj\Release\calcu.csproj.GenerateResource.cache
+C:\Users\Tanaiiir\source\repos\calcu\calcu\obj\Release\calcu.csproj.CoreCompileInputs.cache
+C:\Users\Tanaiiir\source\repos\calcu\calcu\obj\Release\calcu.dll
+C:\Users\Tanaiiir\source\repos\calcu\calcu\obj\Release\calcu.pdb
